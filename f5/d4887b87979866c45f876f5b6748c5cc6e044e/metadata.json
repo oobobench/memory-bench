@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "f5d4887b87979866c45f876f5b6748c5cc6e044e",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780194798,
+  "message": "fix: autodoc isn't able to resolve struct.Struct type annotations",
+  "files_changed": [
+    "sphinx/util/typing.py"
+  ],
+  "added": 25,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "sphinx/util/typing.py",
+      "added": 25,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 25,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
