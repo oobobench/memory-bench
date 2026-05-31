@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "ed5de799793166c74ebd9570a8c6f3f9ada040c7",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780190679,
+  "message": "fix: legend draggable as keyword",
+  "files_changed": [
+    "lib/matplotlib/legend.py"
+  ],
+  "added": 26,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "lib/matplotlib/legend.py",
+      "added": 26,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 26,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
