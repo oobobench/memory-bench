@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "46894c67ce6f1e7cbc64877014da7eea50e0d4aa",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780194794,
+  "message": "fix: [Bug]: ax.bar raises for all-nan data on matplotlib 3.6.1",
+  "files_changed": [
+    "lib/matplotlib/axes/_axes.py"
+  ],
+  "added": 19,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "lib/matplotlib/axes/_axes.py",
+      "added": 19,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 19,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
