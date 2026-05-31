@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "f16b4fe8f7118b4f65d523fb13855e30a71ae97d",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780194791,
+  "message": "fix: `refine()` does not understand how to simplify complex arguments",
+  "files_changed": [
+    "sympy/assumptions/refine.py"
+  ],
+  "added": 35,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "sympy/assumptions/refine.py",
+      "added": 35,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 35,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
