@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "f5e5f0894a2242a059be225b9786a6c8d5b1b096",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780194795,
+  "message": "fix: Decoding an invalid session data crashes.",
+  "files_changed": [
+    "django/contrib/sessions/backends/base.py"
+  ],
+  "added": 15,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "django/contrib/sessions/backends/base.py",
+      "added": 15,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 15,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
