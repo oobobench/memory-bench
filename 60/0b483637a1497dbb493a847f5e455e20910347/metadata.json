@@ -1,0 +1,50 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "600b483637a1497dbb493a847f5e455e20910347",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780190665,
+  "message": "fix: In v5.3, NDDataRef mask propagation fails when one of the operand does not have a mask",
+  "files_changed": [
+    ".oobo/.gitignore",
+    ".oobo/config",
+    "astropy/nddata/mixins/ndarithmetic.py"
+  ],
+  "added": 23,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": ".oobo/.gitignore",
+      "added": 5,
+      "deleted": 0,
+      "attribution": "human"
+    },
+    {
+      "path": ".oobo/config",
+      "added": 8,
+      "deleted": 0,
+      "attribution": "human"
+    },
+    {
+      "path": "astropy/nddata/mixins/ndarithmetic.py",
+      "added": 10,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 23,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
