@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "84540e321a430d72436c307908808da68d3e3c9f",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780194797,
+  "message": "fix: RenameIndex() crashes when unnamed index is moving backward and forward.",
+  "files_changed": [
+    "django/db/migrations/operations/models.py"
+  ],
+  "added": 9,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "django/db/migrations/operations/models.py",
+      "added": 9,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 9,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
