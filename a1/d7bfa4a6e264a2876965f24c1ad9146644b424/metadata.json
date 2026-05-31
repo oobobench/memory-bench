@@ -1,0 +1,36 @@
+{
+  "anchor_schema_version": 1,
+  "oobo_version": "1.1.0",
+  "commit_hash": "a1d7bfa4a6e264a2876965f24c1ad9146644b424",
+  "branch": "main",
+  "author": "oobobench <bench@oobo.ai>",
+  "author_type": "automated",
+  "contributors": [
+    {
+      "name": "oobobench <bench@oobo.ai>",
+      "role": "human"
+    }
+  ],
+  "committed_at": 1780190672,
+  "message": "fix: Add `nonform` CSS class for non form errors in FormSets",
+  "files_changed": [
+    "django/forms/formsets.py"
+  ],
+  "added": 17,
+  "deleted": 0,
+  "file_changes": [
+    {
+      "path": "django/forms/formsets.py",
+      "added": 17,
+      "deleted": 0,
+      "attribution": "human"
+    }
+  ],
+  "ai_added": 0,
+  "ai_deleted": 0,
+  "human_added": 17,
+  "human_deleted": 0,
+  "ai_percentage": 0.0,
+  "session_ids": [],
+  "transparency_mode": "on"
+}
